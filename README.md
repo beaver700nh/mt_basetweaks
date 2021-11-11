@@ -26,8 +26,8 @@ locally, above.
 - The item textures for ethereal's (and 3d_armor's )
   crystal items now have both yellow and blue on them
 - Custom breath and health bars
-- MTG stone and desert stone textures have been bright-
-  ened by 75%
+- Stone and desert stone textures have been brightened
+  by 75% to make caves appear brighter
 - Lava, water, and river water textures are custom
 - Gravel, cactus, apple, and golden apple textures are
   from Minecraft [(Source)](https://github.com/KygekDev/default-textures)
