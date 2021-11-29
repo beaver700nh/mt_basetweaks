@@ -23,7 +23,7 @@ texture pack. If it isn't, use the directions for running
 locally, above.
 
 ## Features
-- The item textures for ethereal's (and 3d_armor's )
+- The item textures for ethereal's (and 3d_armor's)
   crystal items now have both yellow and blue on them
 - Custom breath and health bars
 - Stone and desert stone textures have been brightened
