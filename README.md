@@ -56,9 +56,13 @@ locally, above.
 - MCL's wheat plant textures are from Minecraft
 - Armor textures and the textures of armor slots are
   from Minecraft
-- Sand, sandstone, red sand, and red sandstone, as well
-  as all the variants of the sandstones are taken from
+- Sand, silver sand, desert sand, and red sand, as well
+  as all the sandstones and sandstone variants are taken from
   Minecraft
+  - the silver sand texture is the sand texture but
+    completely desaturated
+  - the desert sand texture is the silver sand texture but
+    all pixels have been subtracted by 0x0080B0
 - All the ore textures are from Minecraft, but I have
   added outlines around the borders for ease of spotting
 - All the resource block textures (coal, iron, etc) are
