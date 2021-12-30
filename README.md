@@ -47,6 +47,9 @@ locally, above.
 - The item textures for ethereal's (and 3d_armor's)
   crystal items now have both yellow and blue on them
   instead of just blue, like before
+- The tools and inventory armor textures for Draconis
+  now match the rest of the textures in this texture
+  pack
 - Custom breath and health bars
 - Stone and desert stone textures have been brightened
   by 75% to make caves appear brighter
