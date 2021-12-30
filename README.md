@@ -66,8 +66,10 @@ locally, above.
     completely desaturated
   - the desert sand texture is the silver sand texture but
     all pixels have been subtracted by 0x0080B0
-- All the ore textures are from Minecraft, but I have
+- All the MCL5 ore textures are from Minecraft, but I have
   added outlines around the borders for ease of spotting
+- All the MTG ore textures are the same except for an added
+  outline for ease of spotting
 - All the resource block textures (coal, iron, etc) are
   from Minecraft version 1.17 because some servers have
   textures from older Minecraft versions
@@ -81,3 +83,6 @@ locally, above.
   - netherrack
 - The loading progress bar is custom
 - The wieldhand texture is custom
+- Draconic Steel tools, armor, and ingots have all been
+  custom remade to match the syle of all the other materials
+  of base Minetest Game
