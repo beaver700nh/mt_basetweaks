@@ -32,6 +32,7 @@ Downloads/
 ## To Update
 ```shell
 $ bash update.sh
+$ bash install.sh
 ```
 
 # To Use
