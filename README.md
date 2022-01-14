@@ -7,34 +7,45 @@ for servers running MineClone. It works fine for Minetest
 Game running locally or on a server, but looks pretty bad
 when used on a local game of MineClone.
 
-# To use
-Download basetweaks. Copy the `basetweaks/images` directory
-out to the same level as `basetweaks/`. Then rename the
-`basetweaks/` folder to `basetweaks_git/` and rename the
-`images/` folder to `basetweaks/`.
+# Setting Up
+Download basetweaks. Open the terminal and go inside the
+`basetweaks/` directory.
+
+Note: Only supports Linux and MacOS at the moment. I'm too
+lazy to write install and update scripts for Windows.
+
+## To Install (First Time)
+```shell
+$ bash install.sh
+```
 
 Now your directory structure should look something like
 this:
 ```
 Downloads/
 │
-├ basetweaks/ - copied from basetweaks_git/images/
+├ basetweaks_textures/ - created by install.sh
 │
-└ basetweaks_git/ - formerly basetweaks
-  │
-  └ images/
+└ basetweaks/ - original downloaded folder
 ```
 
+## To Update
+```shell
+$ bash update.sh
+```
+
+# To Use
+
 ## To use with Minetest Game
-Copy the `basetweaks/` folder from the `To use` step above
-into the `<MINETEST_PATH>/textures/` directory.
+Copy the `basetweaks_textures/` folder from the `To use` step
+above into the `<MINETEST_PATH>/textures/` directory.
 
 Then launch Minetest and enable the basetweaks texture pack.
 Done!
 
 ## To use with MineClone
 ### Running locally
-Get REFI-Textures, then copy the `basetweaks/` folder
+Get REFI-Textures, then copy the `basetweaks_textures/` folder
 from the `To use` step above into the refi folder.
 
 ### Playing on a server
