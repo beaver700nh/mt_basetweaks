@@ -1,9 +1,9 @@
 #!/bin/bash
 
 cd ..
-rm -r basetweaks
+rm -rf basetweaks
 rm -r basetweaks_textures
 
-wget https://github.com/beaver700nh/mt_basetweaks
+git clone https://github.com/beaver700nh/mt_basetweaks basetweaks
 
 bash basetweaks/install.sh
