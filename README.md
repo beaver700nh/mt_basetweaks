@@ -55,7 +55,7 @@ this works well only when the server is using a Minecraft-like
 texture pack. If it isn't, use the directions for running
 locally, above.
 
-## Features
+# Features
 - The item textures for ethereal's (and 3d_armor's)
   crystal items now have both yellow and blue on them
   instead of just blue, like before
